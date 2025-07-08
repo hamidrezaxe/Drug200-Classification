@@ -1,7 +1,7 @@
 # 🧪 Drug Classification
 Used KNN, Decision Tree, and Random Forest to classify patients in the Drug200 dataset based on age, sex, BP, cholesterol, and Na-to-K ratio. The goal was to predict the most suitable drug from five options using patient health data.
 
-##🚀 Models Used
+# 🚀 Models Used
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Random Forest
